@@ -1,6 +1,6 @@
-package com.shaw.concurrency.singleton;
+package com.shaw.concurrency.example.singleton;
 
-import com.shaw.concurrency.annotaion.NotThreadSafe;
+import com.shaw.concurrency.example.annotaion.NotThreadSafe;
 
 /**
  * 懒汉模式：

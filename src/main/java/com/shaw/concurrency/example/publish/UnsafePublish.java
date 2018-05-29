@@ -1,6 +1,6 @@
-package com.shaw.concurrency.publish;
+package com.shaw.concurrency.example.publish;
 
-import com.shaw.concurrency.annotaion.NotThreadSafe;
+import com.shaw.concurrency.example.annotaion.NotThreadSafe;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.Arrays;

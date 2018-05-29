@@ -1,6 +1,6 @@
-package com.shaw.concurrency.singleton;
+package com.shaw.concurrency.example.singleton;
 
-import com.shaw.concurrency.annotaion.ThreadSafe;
+import com.shaw.concurrency.example.annotaion.ThreadSafe;
 
 /**
  * 懒汉模式：=> 双重同步锁机制

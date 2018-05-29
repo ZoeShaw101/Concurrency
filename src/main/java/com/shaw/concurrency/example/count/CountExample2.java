@@ -1,7 +1,6 @@
 package com.shaw.concurrency.example.count;
 
-import com.shaw.concurrency.annotaion.NotThreadSafe;
-import com.shaw.concurrency.annotaion.ThreadSafe;
+import com.shaw.concurrency.example.annotaion.ThreadSafe;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.concurrent.CountDownLatch;

@@ -1,14 +1,10 @@
-package com.shaw.concurrency.atomic;
+package com.shaw.concurrency.example.atomic;
 
-import com.shaw.concurrency.annotaion.ThreadSafe;
-import javafx.util.Pair;
+import com.shaw.concurrency.example.annotaion.ThreadSafe;
 import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
 
-import java.util.HashMap;
-import java.util.Queue;
 import java.util.concurrent.atomic.AtomicIntegerFieldUpdater;
-import java.util.concurrent.atomic.AtomicReference;
 
 
 /**
